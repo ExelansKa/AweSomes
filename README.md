@@ -18,4 +18,11 @@ Study Awesomes
 - Chromely CefSharp
     https://github.com/chromelyapps/CefSharp
     
+- Icon Packs
+    MahApps.Metro.IconPacks : https://github.com/MahApps/MahApps.Metro.IconPacks : Awesome icon packs for WPF and UWP in one library
+    
+- Icon Browser
+    IconPacks.Browser : https://github.com/MahApps/IconPacks.Browser : The Browser for all available Icon packages from MahApps.Metro.IconPacks
+    
+    
 
