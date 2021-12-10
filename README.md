@@ -27,5 +27,7 @@ Study Awesomes
 - Icon Browser
     IconPacks.Browser : https://github.com/MahApps/IconPacks.Browser : The Browser for all available Icon packages from MahApps.Metro.IconPacks
     
-    
+# Tools
 
+  - PVS-Studio, is a tool for detecting bugs in applications written in C/C++/C#
+  - RegexBuddy, powerful tool for Regex 
