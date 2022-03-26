@@ -11,7 +11,6 @@ Study Awesomes
     https://github.com/cefsharp/CefSharp
     https://github.com/cefsharp/CefSharp/wiki/General-Usage#file-uri-file
     
-    
 - SharpBrowser 
     https://github.com/sharpbrowser/SharpBrowser
     
@@ -31,3 +30,11 @@ Study Awesomes
 
   - PVS-Studio, is a tool for detecting bugs in applications written in C/C++/C#
   - RegexBuddy, powerful tool for Regex 
+
+# WebSocket
+  - uWebSockets: https://github.com/uNetworking/uWebSockets,  Simple, secure & standards compliant web server for the most demanding of applications
+
+# Browser Games
+  - QuakeJS : 
+  - HumbleNet :
+  - 
