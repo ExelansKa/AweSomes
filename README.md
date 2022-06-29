@@ -38,3 +38,9 @@ Study Awesomes
   - QuakeJS : 
   - HumbleNet :
   - 
+
+# Dll Dependency Solve
+  - koskila.net : https://www.koskila.net/how-to-copy-dependent-assemblies-to-bin-folder-on-build/
+  - stackoverflow : https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output
+  - 
+  - 
