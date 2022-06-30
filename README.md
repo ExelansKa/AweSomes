@@ -44,3 +44,7 @@ Study Awesomes
   - stackoverflow : https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output
   - 
   - 
+
+# Web Api Security Condideration
+  - Best Practices : https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Web%20API%20Best%20Practices.pdf
+  - 
