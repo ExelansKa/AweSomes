@@ -48,3 +48,11 @@ Study Awesomes
 # Web Api Security Condideration
   - Best Practices : https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Web%20API%20Best%20Practices.pdf
   - 
+
+# Ip4 To Ipv4 Port Forwarding for Smb 445 Port:
+  - https://apolonioserafim.blogspot.com/2021/05/acessar-servidor-samba-em-porta.html
+  - netsh interface portproxy add v4tov4 listenaddress=10.10.10.1 listenport=445 connectaddress=192.168.1.23 connectport=20445
+  
+# Samba File Sharing Tools:
+  - RedFish  :  https://github.com/skyjos-com/Redfish.git
+  
