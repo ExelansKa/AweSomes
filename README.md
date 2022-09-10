@@ -58,3 +58,5 @@ Study Awesomes
 
 # C# Animation-Visualization: 
   - Csharp-Data-Visualization  :  https://github.com/swharden/Csharp-Data-Visualization
+  - WinFormAnimation  :  https://github.com/falahati/WinFormAnimation
+  
