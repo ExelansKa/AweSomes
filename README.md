@@ -55,4 +55,6 @@ Study Awesomes
   
 # Samba File Sharing Tools:
   - RedFish  :  https://github.com/skyjos-com/Redfish.git
-  
+
+# C# Animation-Visualization: 
+  - Csharp-Data-Visualization  :  https://github.com/swharden/Csharp-Data-Visualization
