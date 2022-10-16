@@ -60,3 +60,6 @@ Study Awesomes
   - Csharp-Data-Visualization  :  https://github.com/swharden/Csharp-Data-Visualization
   - WinFormAnimation  :  https://github.com/falahati/WinFormAnimation
   
+# Un4Seen Bass Using Project
+  - CAuLi - Command Line Audio Library Using Bass Library
+  
